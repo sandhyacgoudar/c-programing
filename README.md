@@ -1,6 +1,6 @@
 # c-programing
 simple and basic c program
-#include<sydio.h>
+#include<stdio.h>
 int main()
 {
 int x,y,total;
