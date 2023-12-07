@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+int n;
+printf("enter non zero integer");
+scanf("%d",&n);
+if(n>0)
+{
+printf( "positive number is:",n);
+}
+return 0;
+}
